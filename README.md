@@ -38,6 +38,6 @@ root                    (project root folder)
 * Python 3.8.0
 * Asciimatics 1.12.0
 
-## Authors
+## Authors 
 ---
 * # TODO: Add names and emails here
